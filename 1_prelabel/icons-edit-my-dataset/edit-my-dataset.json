@@ -1,0 +1,35 @@
+{
+    "buttons":
+    [
+        {
+            "button_label":"pain",
+            "button_image":"face-pain.png",
+            "button_image_width": 64,
+            "short_cut":"Ctrl+Shift+A"
+        },
+        {
+            "button_label":"negative",
+            "button_image":"face-negative.png",
+            "button_image_width": 64,
+            "short_cut":"Ctrl+Shift+N"
+        },
+        {
+            "button_label":"neutro",
+            "button_image":"face-neutral.png",
+            "button_image_width": 64,
+            "short_cut":"Ctrl+Shift+O"
+        },
+        {
+            "button_label":"positive",
+            "button_image":"face-positive.png",
+            "button_image_width": 64,
+            "short_cut":"Ctrl+Shift+P"
+        },
+        {
+            "button_label":"error",
+            "button_image":"dialog-error-symbolic.png",
+            "button_image_width": 64,
+            "short_cut":"Ctrl+Shift+E"
+        }
+    ]
+}

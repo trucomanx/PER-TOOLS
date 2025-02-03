@@ -1,0 +1,9 @@
+{
+    "dataset_base_dir" : "../../BER2024-SOURCE",
+    "dataset_labels_file" : "train.csv",
+    "dataset_name" : "ber2024",
+    "model_type_body": "efficientnet_b3",
+    "model_type_face": "efficientnet_b3",
+    "model_type_skel": 20,
+    "output_base_dir" : "output"
+}
