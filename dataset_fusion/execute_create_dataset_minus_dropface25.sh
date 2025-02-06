@@ -2,7 +2,7 @@
 
 InTrD="../../../../TESE-DROP-FACE25"
 DName="full2024-fusion-drop-face25"
-OutDir="../../../"
+OutDir="./" #OutDir="../../../"
 
 SubDir="ncod81_efficientnet_b3_efficientnet_b3_minus"
 

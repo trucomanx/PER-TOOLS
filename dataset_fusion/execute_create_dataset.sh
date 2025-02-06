@@ -2,7 +2,7 @@
 
 InTrD="../../../"
 DName="full2024-fusion"
-OutDir="../../../"
+OutDir="./" #OutDir="../../../"
 
 SubDir="ncod81_efficientnet_b3_efficientnet_b3"
 
